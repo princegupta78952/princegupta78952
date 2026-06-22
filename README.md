@@ -48,13 +48,13 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/YOUR_GITHUB_USERNAME" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=princegupta78952&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
     <a href="https://github.com/princegupta78952">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupta78952&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
     </a>
   </div>
 </p>
