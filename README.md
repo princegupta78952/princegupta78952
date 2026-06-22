@@ -4,8 +4,12 @@
   </a>
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princegupta78952&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/prince-gupta-75a269385 " title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/prince-gupta-75a269385" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://t.me/Prince1223456" title="Telegram Profile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:princegupta7235@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </h5>
@@ -47,7 +51,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" title="Go to Source">
+    <a href="https://github.com/princegupta78952" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=princegupta78952&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -63,7 +67,7 @@
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/princegupta78952/AI-TUTOR" title="Project 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/princegupta78952/Threatscan" title="Project 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/princegupta78952/AI-TUTOR" title="Project 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=AI-TUTOR&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/princegupta78952/Threatscan" title="Project 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=Threatscan&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
