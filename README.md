@@ -39,7 +39,7 @@
   <code><img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></code>
   <code><img title="Scikit-learn" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></code>
   <code><img title="Matplotlib" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"></code>
-  <code><img title="Seaborn" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg"></code>
+  <code><img title="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 </p>
 <hr>
 
@@ -53,7 +53,7 @@
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/princegupta78952">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
     </a>
   </div>
@@ -63,7 +63,7 @@
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_1" title="Project 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2" title="Project 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/princegupta78952/AI-TUTOR" title="Project 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/princegupta78952/Threatscan" title="Project 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
