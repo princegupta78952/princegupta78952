@@ -22,7 +22,7 @@
   <br>
   💻 I love writing code, building full-stack applications, and exploring Machine Learning.
   <br>
-  📚 I’m currently diving deeper into AI integrations and data visualization.
+  📚 I'm currently leveling up my skills in Data Science and Generative AI integrations.
   <br>
   💬 Always up for open-source contributions, hackathons, and building innovative tech.
   <br>
