@@ -1,73 +1,63 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prince+Gupta....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princegupta78952&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/prince-gupta-75a269385" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/Prince1223456" title="Telegram Profile"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:princegupta7235@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Prince Gupta, a Data Science Student & Software Developer from India 🇮🇳
-  <br>
-  <br>
-  🎓 I'm currently pursuing a BS in Data Science and Applications at IIT Madras.
-  <br>
-  💻 I love writing code, building full-stack applications, and exploring Machine Learning.
-  <br>
-  📚 I’m currently diving deeper into AI integrations and data visualization.
-  <br>
-  💬 Ask me anything about Data Science, Python, or Web Development!
-  <br>
-  📫 How to reach me: <a href="mailto:princegupta7235@gmail.com">princegupta7235@gmail.com</a>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
-  <code><img title="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
-  <code><img title="SQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"></code>
-  <code><img title="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
-  <code><img title="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
-  <code><img title="Flask" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"></code>
-  <code><img title="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></code>
-  <code><img title="Scikit-learn" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></code>
-  <code><img title="Matplotlib" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"></code>
-  <code><img title="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/princegupta78952" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=princegupta78952&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <div align=center>
-    <a href="https://github.com/princegupta78952">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupta78952&theme=react&border_color=61dafb&hide_border=true&layout=compact" />
-    </a>
-  </div>
-</p>
-<hr>
-
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/princegupta78952/AI-TUTOR" title="Project 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=AI-TUTOR&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/princegupta78952/Threatscan" title="Project 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=Threatscan&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Prince%20Gupta&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
-<br/><br/><br/><br/><br/><br/>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student+@+IIT+Madras;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Building+AI-Integrated+Apps&center=true&width=600&height=50&color=0e75b6&vCenter=true&size=22">
+  </a>
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princegupta78952&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince-gupta-75a269385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/Prince1223456"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:princegupta7235@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<hr>
+
+### 👨‍💻 About Me
+* 🎓 Pursuing a **BS in Data Science and Applications** at **IIT Madras**.
+* 🚀 Building full-stack web applications using **Python, Flask, HTML, CSS, and JavaScript**.
+* 🧠 Exploring Deep Learning and implementing ML algorithms like **PCA, K-Means Clustering, and Gradient Descent**.
+* 💡 Developing functional AI tools, including an integrated **Review Summarizer** deployed on Render.
+* 🎯 Actively looking for Software Engineering and Data Science internship opportunities.
+
+<hr>
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,mysql,scikit,pandas,matplotlib&theme=dark&perline=10" />
+</p>
+
+<hr>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=princegupta78952&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+</p>
+
+### ⚡ GitHub Stats & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princegupta78952&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=princegupta78952&theme=radical&hide_border=true&background=0d1117" width="48%" />
+</div>
+
+<hr>
+
+### 🚀 Featured Projects
+<div align="center">
+  <a href="https://github.com/princegupta78952/YOUR_PUBLIC_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=YOUR_PUBLIC_REPO_1&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/princegupta78952/YOUR_PUBLIC_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=princegupta78952&repo=YOUR_PUBLIC_REPO_2&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  </a>
+</div>
+<br>
